@@ -17,3 +17,4 @@ function binarySearch(arr, target) {
 }
 
 console.log(binarySearch([-1,5,10,12,14,15], 15));
+console.log(binarySearch([-1,8,10,5,12,11], 10));
