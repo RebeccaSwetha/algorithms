@@ -13,6 +13,6 @@ bubbleSort = arr => {
     } while(swapped);
 }
 
-const arr = [2, -1, 8, 4, 10, 1];
+const arr = [1, -2, 9, 5, 11, 12];
 bubbleSort(arr);
 console.log(arr);
